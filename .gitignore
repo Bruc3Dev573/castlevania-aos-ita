@@ -1,0 +1,13 @@
+*.gba
+*.agb
+*.srl
+*.rom
+*.bin
+*.sav
+*.srm
+*.State
+*.state*
+*.savestate
+*.bk2
+.DS_Store
+Thumbs.db
